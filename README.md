@@ -1,6 +1,6 @@
 # 🚀 Caffeine Clarity
 
-Welcome to Caffeine Flow, the ultimate tool for mastering your daily buzz! Ever wonder how that morning espresso or afternoon energy drink affects your system throughout the day? This app gives you the power to see your caffeine levels in real-time, helping you optimize your focus and protect your sleep.
+Welcome to Caffeine Clarity, the ultimate tool for mastering your daily buzz! Ever wonder how that morning espresso or afternoon energy drink affects your system throughout the day? This app gives you the power to see your caffeine levels in real-time, helping you optimize your focus and protect your sleep.
 
 This isn't just another boring tracker. It’s a sleek, modern Flutter application built with Material 3, designed to give you a dynamic and insightful look into your body's caffeine metabolism.
 
